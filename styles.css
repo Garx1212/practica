@@ -23,6 +23,13 @@ div.post .post-header div:first-child{
     display: inline-block;
     width: 80%;
 }
+div.span{
+    display: inline-block;
+    width: 96%;
+    padding: 10px;
+    text-align: right;
+    color: grey;
+}
 div.post .post-header div:last-child{
     display: inline-block;
     width: 18%;
